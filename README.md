@@ -1,4 +1,4 @@
-# 🚀 WORLD SPACE WEEK · Cosmic Collector
+# 🚀 MOBILE WORLD SPACE WEEK · Cosmic Collector
 + (c)2026《bukittinggi house game》
 
 ## Play Game:
