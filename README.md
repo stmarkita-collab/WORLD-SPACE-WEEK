@@ -1,6 +1,8 @@
 # 🚀 WORLD SPACE WEEK · Cosmic Collector
 + (c)2026《bukittinggi house game》
 
+## Play Game:
++ https://stmarkita-collab.github.io/WORLD-SPACE-WEEK/
 + World Space Week · Cosmic Collector adalah game arcade luar angkasa bertema endless runner yang dapat dimainkan langsung di browser ponsel tanpa perlu instalasi. Pemain mengendalikan sebuah roket penjelajah yang bertugas mengumpulkan bintang-bintang kosmik sambil menghindari asteroid, UFO, dan bos asteroid raksasa yang menghadang di setiap level.
   
 + Game ini dirancang khusus untuk memperingati World Space Week (Pekan Antariksa Sedunia) — sebuah perayaan internasional tahunan yang diadakan setiap tanggal 4–10 Oktober untuk merayakan kontribusi sains dan teknologi luar angkasa bagi umat manusia. Dengan visual yang realistis, efek partikel sinematik, musik ambient dinamis, dan kontrol sentuh yang halus, game ini menghadirkan pengalaman bermain yang imersif langsung dari layar ponsel — tanpa perlu mengunduh aplikasi tambahan.
